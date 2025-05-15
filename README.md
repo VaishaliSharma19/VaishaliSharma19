@@ -23,4 +23,4 @@
 
 🔍 Passionate about turning complex data into actionable strategies that drive impact.
 
-📬 **Connect with me on [LinkedIn] (https://www.linkedin.com/in/vaishali-sharma-data-science/))**  
+📬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishali-sharma-data-science/))**  
