@@ -1,16 +1,26 @@
-## Hi there 👋
+![Vaishali Sharma (4)](https://github.com/user-attachments/assets/1932f035-ab4e-487a-8950-26724f784fbf)
 
-<!--
-**VaishaliSharma19/VaishaliSharma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hello, I'm Vaishali
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Data Analyst** with 6+ years of experience in:
+
+- 📊 Data analysis, predictive modeling, and business intelligence  
+- 🏥 Domains: healthcare, nonprofit, marketing analytics, and scientific research  
+
+🛠️ **Technical Skills:**
+
+- 💻 SQL, Python, Power BI, Tableau, Excel  
+- 📈 Interactive dashboard development  
+- ⚙️ Workflow automation and process optimization  
+
+🚀 **Key Highlights:**
+
+- ✅ Built a 97% accurate Random Forest model for CHD risk prediction  
+- 📉 Reduced manual reporting effort by 30% through automation  
+- 🎯 Improved marketing performance tracking and KPI alignment  
+- 🗣️ Delivered insights through effective data storytelling for senior leadership  
+
+🔍 Passionate about turning complex data into actionable strategies that drive impact.
+
+📬 **Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vaishali-sharma-data-science/))**  
