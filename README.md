@@ -1,4 +1,4 @@
-![Vaishali Sharma (4)](https://github.com/user-attachments/assets/1932f035-ab4e-487a-8950-26724f784fbf)
+![Vaishali Sharma (5)](https://github.com/user-attachments/assets/bc58120c-4be3-4dbf-b375-de673ddb7c41)
 
 
 ## 👋 Hello, I'm Vaishali
